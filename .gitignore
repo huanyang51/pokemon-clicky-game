@@ -1,0 +1,8 @@
+# system files
+.DS_Store
+
+# app files
+node_modules/
+
+#test data
+db.js
